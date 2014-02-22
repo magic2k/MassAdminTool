@@ -18,7 +18,9 @@ Missing features:
  - fine formatted log for command results output for each ssh server
  - ThreadPool for simultaneous connections (update 1000 servers in 30 seconds - "Let Galaxy Burn!" (c))
  - support for ssh keys   
-- less ugly interface :)
-- 
-   Im not planning to do any of these features, unless I will need it to solve my own tasks, 
+ - less ugly interface :)
+
+
+
+ Im not planning to do any of these features, unless I will need it to solve my own tasks, 
  but if you need any of them - feel free to contact me, I think I'll add them :) 
