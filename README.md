@@ -16,7 +16,7 @@ Example:
 Missing features:
 
  - fine formatted log for command results output for each ssh server
- - ThreadPool for simultaneous connections (update 1000 servers in 30 seconds - "Let Galaxy Burn!" (c))
+ - ThreadPool for simultaneous connections
  - support for ssh keys   
  - less ugly interface :)
 
