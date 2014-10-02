@@ -1,6 +1,8 @@
 MassAdminTool
 =============
 
+"Just use Ansible" (c) Me
+
 Tool for mass remote command execution by ssh using jsch library (http://www.jcraft.com/jsch/).
 Now with ugly GUI interface :)
 
